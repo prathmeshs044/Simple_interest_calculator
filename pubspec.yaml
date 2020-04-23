@@ -1,0 +1,16 @@
+name: package_fonts
+description: An example of how to use package fonts with Flutter
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons : ^0.1.2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - images/money.png
